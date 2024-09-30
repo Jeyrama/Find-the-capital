@@ -18,3 +18,5 @@ let capitals = function (word) {
   }
   return caps;
 };
+
+// or
