@@ -7,3 +7,6 @@ of all capital (uppercase) letters in the string.
 Example (Input --> Output):
   "CodEWaRs" --> [0,3,4,6]
 */
+
+
+// Solution
